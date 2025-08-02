@@ -95,7 +95,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mowlick&repo=Data-Analysis&theme=react&border_radius=10" alt="Data-Analysis" />
   </a>
   <a href="https://github.com/Mowlick/car-counter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mowlick&repo=car-counter&theme=react&border_radius=10" alt="car-counter" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mowlick&repo=car-counter&theme=react&border_radius=10" alt="car-counter") />
   </a>
 </div>
 
